@@ -31,7 +31,7 @@
    ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dimasssx&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=dimasssx&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=dimasssx&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasssx&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
